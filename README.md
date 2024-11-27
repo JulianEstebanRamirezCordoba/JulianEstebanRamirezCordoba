@@ -3,7 +3,7 @@
 <h3 align="center">Un apasionado Desarrollador Full Stack</h3>
 
 <h2 align="center">Descripcion.</h2>
-<h4 align="center">Hola soy desarrollador en ECOM SAS compañia Colombiana. Con más de 3 años de experiencia en desarrollo de software, he tenido la oportunidad de trabajar en proyectos desafiantes que me han permitido perfeccionar mis habilidades en (Java, Python, JavaScript, PHP, Dart y Sprinboot) y profundizar en el desarrollo de Aplicaciones web, móviles y sistemas de consumos WEB, APIS o procesos internos.</h4>
+<h4 align="start">Hola soy desarrollador en ECOM SAS compañia Colombiana. Con más de 3 años de experiencia en desarrollo de software, he tenido la oportunidad de trabajar en proyectos desafiantes que me han permitido perfeccionar mis habilidades en (Java, Python, JavaScript, PHP, Dart y Sprinboot) y profundizar en el desarrollo de Aplicaciones web, móviles y sistemas de consumos WEB, APIS o procesos internos.</h4>
 
 - 🔭 Actualmente estoy trabajando para la compañia [ECOM S.A.S](https://my.ecom.com.co/co/)
 - 📫 Correo: *julianestebanramirezcordoba25@gmail.com*
